@@ -1,19 +1,18 @@
 Project Brief: The "Last Mile" Logistics Auditor
 Client: Veridi Logistics (Global E-Commerce Aggregator)
 
-Analyst: Uwimana Andutirabose
+Analyst: Uwimpaye Yvette
 
 A. The Executive Summary
 Our logistics audit confirms a direct link between delivery performance and customer sentiment. While the majority of orders are "On Time," there is a clear regional failure pattern where more remote states (such as RR, AM, and AP) experience disproportionate delays. Critically, "Super Late" deliveries (>5 days past estimate) result in a significant drop in average review scores—often falling below 1.5 stars—proving that logistics inaccuracies are the primary driver of negative customer reviews for Veridi Logistics.
 
 B. Project Links
-Link to Notebook: 
+Link to Notebook: https://datastudio.google.com/reporting/e8379b46-15e0-44e0-8f8e-0d85dc85dc31
 
 Link to Dashboard: https://datastudio.google.com/reporting/e8379b46-15e0-44e0-8f8e-0d85dc85dc31
 
 Link to Presentation: https://docs.google.com/presentation/d/1n_MerSstKynQ6XgxEJd-Dydi_5a1IcmyJzQAi1ogL4s/edit?usp=sharing
 
-Video Walkthrough (Optional): 
 
 C. Technical Explanation
 Data Cleaning & Schema Building
